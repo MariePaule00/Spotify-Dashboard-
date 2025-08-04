@@ -1,0 +1,22 @@
+# Core Streamlit Framework
+streamlit>=1.28.0
+
+# Data Manipulation and Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Interactive Visualizations
+plotly>=5.15.0
+
+# Additional Data Science Libraries (Optional but Recommended)
+scipy>=1.10.0
+scikit-learn>=1.3.0
+
+# Performance and Caching
+streamlit-extras>=0.3.0
+
+# Styling and Themes
+streamlit-option-menu>=0.3.6
+
+# Development and Deployment
+watchdog>=3.0.0
